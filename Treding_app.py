@@ -12,7 +12,7 @@ st.header('We provide the greatest platform for you to collect all information p
 
 st.image("stock.png")
 
-st.markdown("## We provides the following services:")
+st.markdown("## We provide the following services:")
 
 st.markdown("## :one: Stock Information")
 st.write("Through this page, you can see all information about the stock")
